@@ -1,0 +1,3 @@
+Vamos a estructura el curso
+por seccion y cada carperta tendra los
+ejerciocios
